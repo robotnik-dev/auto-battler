@@ -1652,28 +1652,6 @@
 		}
 	], "tilesets": [
 		{
-			"__cWid": 13,
-			"__cHei": 9,
-			"identifier": "Environment",
-			"uid": 113,
-			"relPath": "RTS.png",
-			"embedAtlas": null,
-			"pxWid": 794,
-			"pxHei": 559,
-			"tileGridSize": 64,
-			"spacing": 0,
-			"padding": 0,
-			"tags": [],
-			"tagsSourceEnumUid": null,
-			"enumTags": [],
-			"customData": [],
-			"savedSelections": [],
-			"cachedPixelData": {
-				"opaqueTiles": "000000000000100000000000010000000000001000000000000100000000000010000000000001000000000000100000000000011111111111111",
-				"averageColors": "000003b503b503b503b503b503b503b5008800000000000000000000f2a5f2a5f295f3a6f595f295f3a602a500000000000000000000f6a6f2a5f2a5f295f3a5f895f29502a500000000000000000000f4a5f9b8f2a6f2a6f7a5f7a5f9a505a500000000000000000000fedbfedbf8a5f8a5f7a5fb84fb840b8400000000000000000000f7a5f7a5f8a5fabbfabbf8a5f7a505a500000000000000000000f7a5fadffadff7a5f7a5f7a5feff0dff00000000000000000000feff0eff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-			}
-		},
-		{
 			"__cWid": 23,
 			"__cHei": 29,
 			"identifier": "Map",
